@@ -12,6 +12,9 @@ public class Main {
         cliente2.suscribirse(suscripcion2);
         cliente3.suscribirse(new Suscripcion("Mini", 2990, 1));
 
+
+        System.out.println(cliente1);
+        System.out.println(suscripcion1);
     }
 
 
